@@ -10,7 +10,8 @@ def q1():
   #Write Assignment code here
   num = input("Input a number: ")
   num = float(num)
-  print(math.sqrt(num))
+  num = (math.sqrt(num))
+  print(num)
 
 def q2(): 
   #Write Assignment code here
